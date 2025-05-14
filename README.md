@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub&fontSize=65)
+
+
+### 안녕하세요! 👋
+
+웹 풀스택 개발자로 성장 중인 **클라우드 네이티브 개발자** 지망생입니다.  
+React, Spring Boot, Docker, Kubernetes에 관심이 많습니다 ☁️🚀
 
 <!--
 **hsp64/hsp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsp64&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp64&layout=compact)
