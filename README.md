@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub&fontSize=90)
 
 
 ### 안녕하세요! 👋
