@@ -1,6 +1,14 @@
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&text=흐%20스%20프%20깃%20허%20브&stroke=39FF14&strokeWidth=3&textColor=FFFFFF&animation=scaleIn)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=0a0a0a&text=흐%20스%20프%20깃%20)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=1a1a1a&text=흐%20스%20프%20깃%20허%20브&stroke=FF4500&strokeWidth=3&textColor=FFD700&animation=twinkling&fontSize=75)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&text=흐%20스%20프%20깃%20허%20브&stroke=39FF14&strokeWidth=3&textColor=FFFFFF&rotate=15&animation=fadeIn&fontSize=75)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=F8F8FF&animation=scaleIn&fontSize=78)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&text=흐%20스%20프%20깃%20허%20브&stroke=FF00FF&strokeWidth=4&textColor=FFFFFF&animation=blinking&fontSize=80)
 
 
 ### 안녕하세요! 👋
