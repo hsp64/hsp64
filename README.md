@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c003e,100:000000&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=c0fefe&fontSize=80&fontAlignY=40&stroke=#d3d3d3&strokeWidth=2&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c003e,100:000000&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=c0fefe&fontSize=80&fontAlignY=40&stroke=#1a1a40&strokeWidth=2&animation=twinkling)
 
 
 
