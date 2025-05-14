@@ -2,15 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=100:434343,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=FFFFFF&animation=blinking&fontSize=80)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:4CAF50,100:81C784&text=흐%20스%20프%20깃%20허%20브&stroke=00FF7F&strokeWidth=3&textColor=FFFFFF&animation=scaleIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=00ffc3&fontSize=80&fontAlignY=40&stroke=00ffc3&strokeWidth=1&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:003366,100:99CCFF&text=흐%20스%20프%20깃%20허%20브&stroke=FF6347&strokeWidth=3&textColor=FFFFFF&animation=twinkling&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=100:434343,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=FFFFFF&animation=blinking&fontSize=80)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:FF1493,100:8A2BE2&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=3&textColor=FFFFFF&animation=fadeIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:434343&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=00e0ff&fontSize=80&fontAlignY=40&stroke=20B2AA&strokeWidth=2&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:8B0000,100:FF6347&text=흐%20스%20프%20깃%20허%20브&stroke=00BFFF&strokeWidth=3&textColor=FFFFFF&animation=blinking&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:222222,100:333333&text=흐%20스%20프%20깃%20허%20브&stroke=00ffc3&strokeWidth=2&textColor=FFFFFF&animation=scaleIn&fontSize=80)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:FF7F50,100:FF6347&text=흐%20스%20프%20깃%20허%20브&stroke=FFD700&strokeWidth=3&textColor=FFFFFF&animation=scaleIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2f4f4f&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=00ffc3&fontSize=80&fontAlignY=40&stroke=00ffc3&strokeWidth=2&animation=scaleIn)
 
 
 ### 안녕하세요! 👋
