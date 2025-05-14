@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=흐%20스%20프%20깃%20허%20브&fontSize=75&&animation=twinkling&textColor=B57EDC)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20to%20My%20GitHub&fontSize=65&textColor=FFD700&animation=fadeIn)
+<span style="color:#FF6F61">흐</span>
+<span style="color:#6A5ACD">스</span>
+<span style="color:#20B2AA">프</span>
+<span style="color:#FFA07A">깃</span>
+<span style="color:#87CEFA">허</span>
+<span style="color:#FFB6C1">브</span>
+
 
 
 ### 안녕하세요! 👋
