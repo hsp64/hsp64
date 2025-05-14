@@ -1,8 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=100:434343,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=FFFFFF&animation=blinking&fontSize=80)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=F8F8FF&animation=scaleIn&fontSize=78)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:4CAF50,100:81C784&text=흐%20스%20프%20깃%20허%20브&stroke=00FF7F&strokeWidth=3&textColor=FFFFFF&animation=scaleIn&fontSize=80)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&text=흐%20스%20프%20깃%20허%20브&stroke=FF00FF&strokeWidth=4&textColor=FFFFFF&animation=blinking&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:003366,100:99CCFF&text=흐%20스%20프%20깃%20허%20브&stroke=FF6347&strokeWidth=3&textColor=FFFFFF&animation=twinkling&fontSize=80)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:FF1493,100:8A2BE2&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=3&textColor=FFFFFF&animation=fadeIn&fontSize=80)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:8B0000,100:FF6347&text=흐%20스%20프%20깃%20허%20브&stroke=00BFFF&strokeWidth=3&textColor=FFFFFF&animation=blinking&fontSize=80)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:FF7F50,100:FF6347&text=흐%20스%20프%20깃%20허%20브&stroke=FFD700&strokeWidth=3&textColor=FFFFFF&animation=scaleIn&fontSize=80)
 
 
 ### 안녕하세요! 👋
