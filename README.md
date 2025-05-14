@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=00ffc3&fontSize=80&fontAlignY=40&stroke=00ffc3&strokeWidth=1&animation=fadeIn)
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=100:434343,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=FFFFFF&animation=blinking&fontSize=80)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:4CAF50,100:81C784&text=흐%20스%20프%20깃%20허%20브&stroke=00FF7F&strokeWidth=3&textColor=FFFFFF&animation=scaleIn&fontSize=80)
