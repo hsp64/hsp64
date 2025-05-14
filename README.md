@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=ccffcc&fontSize=80&fontAlignY=40&stroke=00ff99&strokeWidth=2&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c003e,100:000000&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=ff66cc&fontSize=80&fontAlignY=40&stroke=00ffff&strokeWidth=2&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c003e,100:000000&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=c0fefe&fontSize=80&fontAlignY=40&stroke=00ffff&strokeWidth=2&animation=twinkling)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=흐%20스%20프%20깃%20허%20브&fontColor=00ffc3&fontSize=80&fontAlignY=40&stroke=00bcd4&strokeWidth=2&animation=twinkling)
 
