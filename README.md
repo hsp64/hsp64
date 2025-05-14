@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=4&textColor=FFFFFF&animation=blinking&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=100:434343,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=4&textColor=FFFFFF&animation=blinking&fontSize=80)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:434343&text=흐%20스%20프%20깃%20허%20브&stroke=20B2AA&strokeWidth=2&textColor=F8F8FF&animation=scaleIn&fontSize=78)
 
