@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=capsule_render&animation=fadeIn&text=흐%20스%20프%20깃%20허%20브&fontSize=75text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=흐%20스%20프%20깃%20허%20브&fontSize=75text=capsule_render&animation=fadeIn)
 
 
 ### 안녕하세요! 👋
