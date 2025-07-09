@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🔧 기술 스택
+
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Java, Spring Boot  
+- **Database**: MySQL, MariaDB  
+- **DevOps / Cloud**: AWS, Docker, Kubernetes  
+- **Collaboration & Tools**: Git, GitHub, Notion, VS Code
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsp64&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp64&layout=compact)
