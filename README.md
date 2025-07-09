@@ -6,8 +6,12 @@
 
 ### 안녕하세요! 👋
 
-웹 풀스택 개발자로 성장 중인 **클라우드 네이티브 개발자** 지망생입니다.  
-React, Spring Boot, Docker, Kubernetes에 관심이 많습니다 ☁️🚀
+작은 성장도 놓치지 않고 기록하는 웹 풀스택 개발 지망생입니다.  
+프론트엔드부터 백엔드, 그리고 클라우드 환경까지 전방위로 배우며,  
+현실적인 문제를 코드로 해결하는 개발자를 목표로 하고 있습니다.
+
+현재는 Java와 Spring Boot를 기반으로 REST API 개발을 익히고 있으며,  
+React와 Docker, Kubernetes 같은 클라우드 기술에도 꾸준히 관심을 갖고 있습니다.
 
 <!--
 **hsp64/hsp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
